@@ -1,2 +1,2 @@
 dpkg-scanpackages -m ./debs > Packages
-bzip2 Packages
+bzip2 -k Packages
