@@ -15,16 +15,16 @@ Author: fku
 Name: LSChangeWallpaper
 
 Package: com.xqf.lsshowcoronacases
-Version: 0.0.1-18+debug
+Version: 0.0.1-20+debug
 Architecture: iphoneos-arm
 Maintainer: XQF
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/com.xqf.lsshowcoronacases_0.0.1-18+debug_iphoneos-arm.deb
-Size: 6950
-MD5sum: 7cc1fedd1c3341e4e72f42b27ad09308
-SHA1: 66fee87c5fd741636069b854963f42675135962a
-SHA256: 4103a039dae8dacebc6ecc3ac0c4b2b9cead06e0288cdf904bab993dc373435d
+Filename: ./debs/com.xqf.lsshowcoronacases_0.0.1-20+debug_iphoneos-arm.deb
+Size: 6930
+MD5sum: b56a6d4004d15a3263bb06021ae5ff86
+SHA1: 64ec7f2ae1049000eb5f9375c833e493c51800ea
+SHA256: 7fa7222a1846e5a0b5d1f036322cbc9c6c75a91dc7eb271c420f8a2d5517ea05
 Section: Tweaks
 Description: Corona
 Author: XQF
