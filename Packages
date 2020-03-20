@@ -15,16 +15,16 @@ Author: fku
 Name: LSChangeWallpaper
 
 Package: com.xqf.lsshowcoronacases
-Version: 0.0.1-23+debug
+Version: 0.0.1-25+debug
 Architecture: iphoneos-arm
 Maintainer: XQF
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/com.xqf.lsshowcoronacases_0.0.1-23+debug_iphoneos-arm.deb
-Size: 6726
-MD5sum: eb39654b90a1eaf742dfcd29fc60b2a6
-SHA1: a7e55dfd7f44df8232d34d67b18adcbd25068291
-SHA256: 04258971655284317e05cf02ee0bca4998ac018c1a77ad61d4dcadc64e3d8d52
+Filename: ./debs/com.xqf.lsshowcoronacases_0.0.1-25+debug_iphoneos-arm.deb
+Size: 6896
+MD5sum: 1047e951ac8e61522921a1cf358adfb5
+SHA1: 3630d11b120f063155e353b8463721c4492d7b8f
+SHA256: 3da43ff079c1a65c30317a4067bd67b8a9e963bb584a944b2441bd8ab4bb9444
 Section: Tweaks
 Description: Show Corona Cases in Germany on Lockscreen
 Author: XQF
