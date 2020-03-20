@@ -14,3 +14,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: fku
 Name: LSChangeWallpaper
 
+Package: com.xqf.lsshowcoronacases
+Version: 0.0.1-18+debug
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.lsshowcoronacases_0.0.1-18+debug_iphoneos-arm.deb
+Size: 6950
+MD5sum: 7cc1fedd1c3341e4e72f42b27ad09308
+SHA1: 66fee87c5fd741636069b854963f42675135962a
+SHA256: 4103a039dae8dacebc6ecc3ac0c4b2b9cead06e0288cdf904bab993dc373435d
+Section: Tweaks
+Description: Corona
+Author: XQF
+Name: LSShowCoronaCases
+
