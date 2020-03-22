@@ -94,3 +94,19 @@ Description: Show Corona Cases in Germany on Lockscreen
 Author: XQF
 Name: LSShowCoronaCases
 
+Package: com.xqf.lsshowcoronacases
+Version: 0.0.1-56+debug
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.lsshowcoronacases_0.0.1-56+debug_iphoneos-arm.deb
+Size: 12262
+MD5sum: 70bfa80f63773384406e28561df83917
+SHA1: d086bcdc3146bb087b1d0ecc5f1ff203e059dbf4
+SHA256: 9b179453e7669dc3185fbe53ea7abcc2d93c6e53db66531a39bbf21a9d5499e0
+Section: Tweaks
+Description: Show Corona Cases in Germany on Lockscreen
+Author: XQF
+Name: LSShowCoronaCases
+
