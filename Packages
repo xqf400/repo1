@@ -15,6 +15,22 @@ Author: fku
 Name: LSChangeWallpaper
 
 Package: com.xqf.lsshowcoronacases
+Version: 0.0.1-112+debug
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.lsshowcoronacases_0.0.1-112+debug_iphoneos-arm.deb
+Size: 16522
+MD5sum: e4e88557c9e5c06a8f4af5294d97cd6a
+SHA1: 95b03b59cd6c45e47f84c20fe0e4cb045c097625
+SHA256: 344dc3a7e59b998367cd82b3434ec6273d7bab0e3d2fb2bc23740feead22a606
+Section: Tweaks
+Description: Show Corona Cases on Lockscreen to enable the tweak go to settings an enable it. Please don't forget to write yout country in the textfield and press RETURN. The tweak will work after a few minutes, or if you respring your device manually :)
+Author: XQF
+Name: LSShowCoronaCases
+
+Package: com.xqf.lsshowcoronacases
 Version: 0.0.1-25+debug
 Architecture: iphoneos-arm
 Maintainer: XQF
