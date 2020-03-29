@@ -47,6 +47,25 @@ Author: XQF
 Name: LSShowCoronaCases
 
 Package: com.xqf.lsshowcoronacases
+Version: 0.0.1-154+debug
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.lsshowcoronacases_0.0.1-154+debug_iphoneos-arm.deb
+Size: 18946
+MD5sum: f2bed6073ae7f369bd59e01ab0619da7
+SHA1: aee3d35639799697ff9d8eaa34e6ba32f8e2c517
+SHA256: 4473f05a36f7bf4fd69f62259ad660d8b503f1fdba916282977a77541ba31988
+Section: Tweaks
+Description: Show Corona Cases on Lockscreen to enable the tweak go to settings an enable it. Please don't forget to write yout country in the textfield and press RETURN. The tweak will work after a few minutes, or if you respring your device manually :)
+Author: XQF
+Depiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
+Icon: https://clubjailbreak.cydia-repo.com/assets/TweakIcons/LSShowCoronaCases.png
+Name: LSShowCoronaCases
+Sileodepiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
+
+Package: com.xqf.lsshowcoronacases
 Version: 0.0.1-25+debug
 Architecture: iphoneos-arm
 Maintainer: XQF
