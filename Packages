@@ -1,3 +1,19 @@
+Package: com.ior.ifoddrespring
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: ior
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.ior.ifoddrespring_0.0.1-4+debug_iphoneos-arm.deb
+Size: 3602
+MD5sum: 5541ce5f54277a376fc7d17f77ff3b86
+SHA1: 30081eb696c8dddd926b788ab8beaa61a26bad4c
+SHA256: ad5f5344b6833bc1189e9793e188d66f24287ab1c37cb9a2e898f507b23fd118
+Section: Tweaks
+Description: !!!Caution!!!   If you activate your lockscreen or your notification center and the minute is odd... your device respring... For example it is 3:41 and you activate your lockscreen you can't use your device till it is 3:42.
+Author: ior
+Name: IfOddRespring
+
 Package: com.xqf.lsshowcoronacases
 Version: 0.0.1-112+debug
 Architecture: iphoneos-arm
