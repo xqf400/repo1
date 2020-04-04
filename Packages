@@ -15,18 +15,18 @@ Author: ior
 Name: IfOddRespring
 
 Package: com.xqf.grabberex
-Version: 0.9.1-1+debug
+Version: 0.9.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: XQF <xqf4k1@gmail.com>
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/com.xqf.grabberex_0.9.1-1+debug_iphoneos-arm.deb
-Size: 4362
-MD5sum: a5583703f9286768137c7e0625eedf2b
-SHA1: 8c9ffd796e67d7a4751bc5031c22c09a00e7d037
-SHA256: 8e12b14d1a575b287e8f9c702344be2ab9e067801eca86fe98a178e8170ec1c3
+Filename: ./debs/com.xqf.grabberex_0.9.1-2+debug_iphoneos-arm.deb
+Size: 4366
+MD5sum: 2fd93cfe7133c4bc7476e0c3347b1266
+SHA1: 314c37f90b41889f58521bd19dcf308660c4c27b
+SHA256: f0989299467b8a4fceb275121627b3c444d28304a103868bc4fa0e0201279c56
 Section: Tweaks
-Description: At this time the Grabber only shows the time and battery.
+Description: Shows time and battery on the grabber. Perfect for gamers :)
 Author: XQF
 Depiction: https://fakuit01.github.io/repo1/desc/grabberex/grabberex.html
 Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
