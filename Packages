@@ -397,6 +397,25 @@ Name: LSShowCoronaCases
 Sileodepiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
 
 Package: com.xqf.lsshowcoronacases
+Version: 0.9.5-32+debug
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 416
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.lsshowcoronacases_0.9.5-32+debug_iphoneos-arm.deb
+Size: 46438
+MD5sum: a96fea1f0e923e410250e41a06ae735c
+SHA1: 73d4d3795ccaf8c9a915eb10409779be9c8d10a1
+SHA256: 3a965459950fe137848b072ab49ed55efe597a7a1c0eab969fb677405620ab17
+Section: Tweaks
+Description: This Tweak shows Corona statistics on your Lockscreen. To enable the tweak go to settings an enable it. Please don't forget to write your country in the textfield and press RETURN. After enabling the tweak you have to respring your device. You can enable: cases,today cases, deaths, today deaths, recovered, enable german language,enable Emojis. Also you can set the Y position on your Lockscreen (You have to press RETURN after you wrote the Y position)manually :) Data is sourced from Johns Hopkins CSSE.
+Author: XQF
+Depiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
+Icon: https://fakuit01.github.io/repo1/desc/lsshowcoronacasesIcon.png
+Name: LSShowCoronaCases
+Sileodepiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
+
+Package: com.xqf.lsshowcoronacases
 Version: 0.9.5-7+debug
 Architecture: iphoneos-arm
 Maintainer: XQF <xqf4k1@gmail.com>
