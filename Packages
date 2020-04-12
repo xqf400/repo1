@@ -33,6 +33,25 @@ Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
 Name: GrabberEX
 Sileodepiction: https://fakuit01.github.io/repo1/desc/grabberex/grabberex.html
 
+Package: com.xqf.grabberex
+Version: 0.9.4
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.xqf.grabberex_0.9.4_iphoneos-arm.deb
+Size: 8852
+MD5sum: d036c9581c4ef21fc61d0f046056a8c0
+SHA1: c4232758362f7ce6fa88824763f63d009c9439e5
+SHA256: f653edbdd43555eba068c487412936f9f9741c6c38c330339faf1c0319f514e4
+Section: Tweaks
+Description: Shows time and battery on the grabber. Perfect for gamers :)
+Author: XQF
+Depiction: https://fakuit01.github.io/repo1/desc/grabberex/grabberex.html
+Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
+Name: GrabberEX
+Sileodepiction: https://fakuit01.github.io/repo1/desc/grabberex/grabberex.html
+
 Package: com.xqf.lsshowcoronacases
 Version: 0.0.1-112+debug
 Architecture: iphoneos-arm
