@@ -529,3 +529,19 @@ Icon: https://fakuit01.github.io/repo1/desc/lsshowcoronacasesIcon.png
 Name: LSShowCoronaCases
 Sileodepiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
 
+Package: com.xqf.sayhellotome
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 344
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.sayhellotome_0.0.1_iphoneos-arm.deb
+Size: 7600
+MD5sum: fb285f576f0570b6f7537a86bd8d64c2
+SHA1: de6760b50260ad7d782a535c52f5fd4aa8076b1a
+SHA256: 2a312dc210bfee320fa477b97e71031eaeec44ca8a19e627a0e6624332dab877
+Section: Tweaks
+Description: tells you what you want if you unlock the device. no text in field tells the time. Actual German only. More language will come.
+Author: XQF
+Name: SayHelloToMe
+
