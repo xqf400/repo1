@@ -529,6 +529,25 @@ Icon: https://fakuit01.github.io/repo1/desc/lsshowcoronacasesIcon.png
 Name: LSShowCoronaCases
 Sileodepiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
 
+Package: com.xqf.lsshowcoronacases
+Version: 0.9.8.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 416
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.lsshowcoronacases_0.9.8.1-8+debug_iphoneos-arm.deb
+Size: 45940
+MD5sum: 6bfed58240a19f5f595b0cd3616cf6b3
+SHA1: a4a98e8a7bd8aefcd3ba0c9e52f39def867fe510
+SHA256: acc87b4e03922d0dacdf6f29e0c17839bc27410321065510ecb7a94a2d8d5db0
+Section: Tweaks
+Description: This Tweak shows Corona statistics on your Lockscreen.
+Author: XQF
+Depiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
+Icon: https://fakuit01.github.io/repo1/desc/lsshowcoronacasesIcon.png
+Name: LSShowCoronaCases
+Sileodepiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
+
 Package: com.xqf.sayhellotome
 Version: 0.0.1
 Architecture: iphoneos-arm
