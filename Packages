@@ -14,6 +14,22 @@ Description: !!!Caution!!!  !Stupid Tweak! If you activate your lockscreen or yo
 Author: ior
 Name: IfOddRespring
 
+Package: com.xqf.germancoronastats
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.germancoronastats_0.0.1-5+debug_iphoneos-arm.deb
+Size: 17230
+MD5sum: d4f41dc7202e3d37c558649132bed1af
+SHA1: c29d0c820e8835742ff9600046ea7576a5194dde
+SHA256: c3c2dd1c88a0608ff033b0fb29d92246790e1dbcdadd0e15af08bf8d2c3491c3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XQF
+Name: GermanCoronaStats
+
 Package: com.xqf.grabberex
 Version: 0.9.1-2+debug
 Architecture: iphoneos-arm
