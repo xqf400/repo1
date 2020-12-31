@@ -155,6 +155,25 @@ Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
 Name: GrabberEX
 Sileodepiction: https://fakuit01.github.io/repo1/desc/grabberex/grabberex.html
 
+Package: com.xqf.grabberinapps
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.grabberinapps_0.0.1-8+debug_iphoneos-arm.deb
+Size: 8254
+MD5sum: 2eceb0db837d301043097fe8a04e89ad
+SHA1: fb8587c3a86fc5e0b36cf281b267bc0768ea97b0
+SHA256: a68fd62a23e31da09e8e01f3ac1121dfa44140ca92b2c32147a2add697d3c032
+Section: Tweaks
+Description: Grabber in various apps like youtube
+Author: XQF
+Depiction: https://fakuit01.github.io/repo1/desc/grabberex/grabberex.html
+Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
+Name: GrabberInApps
+Sileodepiction: https://fakuit01.github.io/repo1/desc/grabberex/grabberex.html
+
 Package: com.xqf.lsshowcoronacases
 Version: 0.0.1-112+debug
 Architecture: iphoneos-arm
