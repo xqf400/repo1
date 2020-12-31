@@ -15,6 +15,38 @@ Author: ior
 Name: IfOddRespring
 
 Package: com.xqf.germancoronastats
+Version: 0.0.1-25+debug
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 380
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.germancoronastats_0.0.1-25+debug_iphoneos-arm.deb
+Size: 42990
+MD5sum: 00db1aec1c6e601b2c11bd1d1829517b
+SHA1: 13a1816ff8191ef94c4fb97562db3a74470de94a
+SHA256: 148b3f2dac39bce9606ae49d263a067cb348c171698c554e19087c4cc165e4d9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XQF
+Name: GermanCoronaStats
+
+Package: com.xqf.germancoronastats
+Version: 0.0.1-31+debug
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 380
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.germancoronastats_0.0.1-31+debug_iphoneos-arm.deb
+Size: 43006
+MD5sum: d975c249c83c4eb3b7ca91ff6a09ef34
+SHA1: 369ea2991a99f7ac27ebce72c445279aee0b2806
+SHA256: 079e357b8db580c6479afabbe0091217abc229905db59ea0cfd9f1d3f23932e6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XQF
+Name: GermanCoronaStats
+
+Package: com.xqf.germancoronastats
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
 Maintainer: XQF
@@ -28,6 +60,23 @@ SHA256: c3c2dd1c88a0608ff033b0fb29d92246790e1dbcdadd0e15af08bf8d2c3491c3
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: XQF
+Name: GermanCoronaStats
+
+Package: com.xqf.germancoronastats
+Version: 0.9.1
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.germancoronastats_0.9.1_iphoneos-arm.deb
+Size: 38948
+MD5sum: acb86883aef3606a76614e00811f66fe
+SHA1: 946d49dc04a0c77283197077e5a093887f902aa9
+SHA256: 8f3f1d06bc9365a7a94901ed09d4d24993f67ba3349704fca93972237feeca75
+Section: Tweaks
+Description: Zeigt die Bundesländer Statistiken des Bundeslandes an
+Author: XQF
+Icon: http://xqf4k.de/repo/desc/germancoronastats/germancoronastatsIcon.png
 Name: GermanCoronaStats
 
 Package: com.xqf.grabberex
@@ -79,6 +128,25 @@ Size: 8972
 MD5sum: 48b19a51b11b5cadc9358960e4e979e0
 SHA1: 7cce122d251a79ecdb68c0687933443297f6a34c
 SHA256: 59ef8ee1e3ca9cac545eb4c75815114ada079c2cd95e8df210483632ee93e808
+Section: Tweaks
+Description: Shows time and battery on the grabber. Perfect for gamers :)
+Author: XQF
+Depiction: https://fakuit01.github.io/repo1/desc/grabberex/grabberex.html
+Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
+Name: GrabberEX
+Sileodepiction: https://fakuit01.github.io/repo1/desc/grabberex/grabberex.html
+
+Package: com.xqf.grabberex
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 296
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.xqf.grabberex_1.0_iphoneos-arm.deb
+Size: 9564
+MD5sum: 340142d99041886d53ca105ca9918201
+SHA1: e8de90d11042d3ba0fbeeac1a4332b24145baaab
+SHA256: 5df086f6d56f9bd7c30639255932fd54c1f72002c508b075d56eb16fa1b8c99a
 Section: Tweaks
 Description: Shows time and battery on the grabber. Perfect for gamers :)
 Author: XQF
@@ -602,6 +670,22 @@ Icon: https://fakuit01.github.io/repo1/desc/lsshowcoronacasesIcon.png
 Name: LSShowCoronaCases
 Sileodepiction: https://fakuit01.github.io/repo1/desc/lsshowcoronacases.html
 
+Package: com.xqf.notificationcatcher
+Version: 0.0.1-245+debug
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 540
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xqf.notificationcatcher_0.0.1-245+debug_iphoneos-arm.deb
+Size: 39048
+MD5sum: 147374185b63e969b66d6ab4f20dae11
+SHA1: c86a283df6f05b4ed8b48ca7ba09cd3a26a5ccb5
+SHA256: 71986f21d3ee59b6a25a9b940f983c83f484458524fcf9650fa4d4654383f676
+Section: Tweaks
+Description: Notification Counter
+Author: XQF
+Name: NotificationCatcher
+
 Package: com.xqf.sayhellotome
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -617,4 +701,20 @@ Section: Tweaks
 Description: tells you what you want if you unlock the device. no text in field tells the time. Actual German only. More language will come.
 Author: XQF
 Name: SayHelloToMe
+
+Package: com.xqf4k.theunlockcounter
+Version: 1.02
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 352
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xqf4k.theunlockcounter_1.02_iphoneos-arm.deb
+Size: 25910
+MD5sum: 51cfc5091e0656726802c7011674bec6
+SHA1: 5c1f4a50271cf52f4eb0784b68370b848399c955
+SHA256: 9342b31f336bc09e3a2def0e71067c4ecbdf4a2bfb00a6bac728e2d331aa511d
+Section: Tweaks
+Description: Counts how often you unlock your device daily. No Settings. See results in Settings App.
+Author: XQF
+Name: TheUnlockCounter
 
