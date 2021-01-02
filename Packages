@@ -159,12 +159,12 @@ Maintainer: XQF <xqf4k1@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.xqf.grabberinapps_1.0_iphoneos-arm.deb
-Size: 3716
-MD5sum: 7d56dd98e1732d75b116ef8f6046ef03
-SHA1: a1b6a72ac1a27372610dd6a32f3c20707737c783
-SHA256: bde2a3790ac856a71f958f92a18d9440d78dedad042a48ab72ca933e18ff01ee
+Size: 3766
+MD5sum: 450e068ab383380318181e7594a58564
+SHA1: 47d4676f14312643177027dc26f0113d76db1701
+SHA256: 32a59322b2accb253dba0ea1145c30afc9b30f4e39434e3197eedc1e064a712c
 Section: Tweaks
-Description: Grabber in youtube and plex player.
+Description: Grabber in youtube, vlc and plex player.
 Author: XQF
 Depiction: https://fakuit01.github.io/repo1/desc/grabberinapps/grabberinapps.html
 Icon: https://fakuit01.github.io/repo1/desc/grabberinapps/grabberinappsIcon.png
