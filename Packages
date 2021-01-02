@@ -1,3 +1,19 @@
+Package: com.cortex.carplayenable
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Cortex
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.cortex.carplayenable_0.0.1-1+debug_iphoneos-arm.deb
+Size: 30836
+MD5sum: 0f7acdfbe567af962e4d28b1f209843f
+SHA1: 14cc1d4ee3c32fe601239de95749242073fc2c1d
+SHA256: 53171607a93764f8f9472b648cdf82b0d13825800602cb7df1d1ffe88abbfe12
+Section: Tweaks
+Description: Use any app with CarPlay
+Author: Cortex
+Name: carplayenable
+
 Package: com.ior.ifoddrespring
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
