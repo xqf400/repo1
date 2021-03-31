@@ -30,6 +30,54 @@ Description: !!!Caution!!!  !Stupid Tweak! If you activate your lockscreen or yo
 Author: ior
 Name: IfOddRespring
 
+Package: com.xqf.carplaytweak
+Version: 0.0.1-48+debug
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 172
+Depends: mobilesubstrate, com.peterdev.libpddokdo, firmware (>=13.0)
+Filename: ./debs/com.xqf.carplaytweak_0.0.1-48+debug_iphoneos-arm.deb
+Size: 8790
+MD5sum: a5f537a89bff630c9c04bc0080d98399
+SHA1: 6605d606c5f358795039996a4d665025920754c2
+SHA256: 6104a3a9b686c5014cc419bd704497a83a58656d00379febaffb3505e91edbae
+Section: Tweaks
+Description: CarPlayTweak
+Author: XQF
+Name: CarPlayTweak
+
+Package: com.xqf.carplaytweak
+Version: 0.0.1-49+debug
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 172
+Depends: mobilesubstrate, com.peterdev.libpddokdo, firmware (>=13.0)
+Filename: ./debs/com.xqf.carplaytweak_0.0.1-49+debug_iphoneos-arm.deb
+Size: 8870
+MD5sum: 27cb104b0b49907d1415821718aa946f
+SHA1: d70fc642c20a91a16cc4a8f27e21f0b7d47f6089
+SHA256: 8287d05f56689b0168df5e90d1c412afe0c6960aa076c92b8fc2aaad22c5d567
+Section: Tweaks
+Description: CarPlayTweak
+Author: XQF
+Name: CarPlayTweak
+
+Package: com.xqf.carplaytweak
+Version: 0.0.1-52+debug
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 176
+Depends: mobilesubstrate, com.peterdev.libpddokdo, firmware (>=13.0)
+Filename: ./debs/com.xqf.carplaytweak_0.0.1-52+debug_iphoneos-arm.deb
+Size: 9494
+MD5sum: 9b39f9fa36185a03787ce4886f02fe09
+SHA1: 4d9f0a5cc449f3a29d01fb34ce299e3c7af2bbf2
+SHA256: 7f89d65c5aa9c6407defc87bb431bee17f5e8f9cd40c8de51f793f69912658a1
+Section: Tweaks
+Description: CarPlayTweak
+Author: XQF
+Name: CarPlayTweak
+
 Package: com.xqf.germancoronastats
 Version: 0.0.1-25+debug
 Architecture: iphoneos-arm
