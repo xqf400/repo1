@@ -78,6 +78,22 @@ Description: CarPlayTweak
 Author: XQF
 Name: CarPlayTweak
 
+Package: com.xqf.carplaytweak
+Version: 0.0.1-53+debug
+Architecture: iphoneos-arm
+Maintainer: XQF
+Installed-Size: 176
+Depends: mobilesubstrate, com.peterdev.libpddokdo, firmware (>=13.0)
+Filename: ./debs/com.xqf.carplaytweak_0.0.1-53+debug_iphoneos-arm.deb
+Size: 9122
+MD5sum: 4684afad816a01f5b832b4b0bd1ee207
+SHA1: 54e047213902352c9fc45cfa882d0c188ab41749
+SHA256: 5168525baf87c4f4b6f13b005a531479c25c44b5d043d7369a77c487bcba6be6
+Section: Tweaks
+Description: CarPlayTweak
+Author: XQF
+Name: CarPlayTweak
+
 Package: com.xqf.germancoronastats
 Version: 0.0.1-25+debug
 Architecture: iphoneos-arm
