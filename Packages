@@ -251,6 +251,25 @@ Icon: https://fakuit01.github.io/repo1/desc/grabberinapps/grabberinappsIcon.png
 Name: GrabberInApps
 Sileodepiction: https://fakuit01.github.io/repo1/desc/grabberinapps/grabberinapps.html
 
+Package: com.xqf.grabberinapps
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.xqf.grabberinapps_1.1_iphoneos-arm.deb
+Size: 3552
+MD5sum: ce4a71e687286e4304579e474ac87ab1
+SHA1: 5003878a802f5290ad4bece451cfb41778331ee5
+SHA256: 3291270dd2520cca572f0843679a9da2d2f29780515118866a67973a1602c34c
+Section: Tweaks
+Description: Grabber in youtube, vlc, Netflix and plex player.
+Author: XQF
+Depiction: https://fakuit01.github.io/repo1/desc/grabberinapps/grabberinapps.html
+Icon: https://fakuit01.github.io/repo1/desc/grabberinapps/grabberinappsIcon.png
+Name: GrabberInApps
+Sileodepiction: https://fakuit01.github.io/repo1/desc/grabberinapps/grabberinapps.html
+
 Package: com.xqf.lsshowcoronacases
 Version: 0.0.1-112+debug
 Architecture: iphoneos-arm
